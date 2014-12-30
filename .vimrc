@@ -11,7 +11,7 @@
 " Don't emulate Vi
 set nocompatible
 
-" Set the colorscheme
+" Set the color scheme
 colorscheme desert
 
 " Enable syntax highlighting
@@ -29,4 +29,8 @@ set number
 
 " Show cursor position
 set ruler
+
+" Turn on command-line completion
+set wildmenu
+set wildmode=list:longest,full
 
