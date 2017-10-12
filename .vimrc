@@ -34,3 +34,5 @@ set ruler
 set wildmenu
 set wildmode=list:longest,full
 
+" Enable mouse for scrolling and resizing
+set mouse=a
